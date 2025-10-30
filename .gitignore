@@ -1,0 +1,35 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+*.log
+
+# Maven
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Spring Boot
+spring-boot-*.log
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Replit
+.replit
+.config/
+.upm/
+.cache/
+replit.nix
